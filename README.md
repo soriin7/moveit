@@ -9,6 +9,6 @@ Projeto Move.it Desenvolvido no NLW
 
 https://user-images.githubusercontent.com/68926751/109399182-0b464100-7920-11eb-8b56-6c2bb4581f0f.mp4
 
-Aplicação criada em React.js e Next.js.
+Aplicação criada em React.js e Next.js e typescript.
 
 Para rodar este projeto local será necessário usar o git clone e instalar suas dependencias utilizando o yarn install.
