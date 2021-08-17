@@ -5,7 +5,7 @@ Projeto Move.it Desenvolvido no NLW
 
   Em sua tela incial podemos encontrar o nível do usuário, que cresce conforme o usuário completa desafios, quantidades de desafios completos, xp do usuário, timer e botão para iniciar um ciclo de trabalho e um espaço criado para apresentar os desafios.
   
-  Após o ciclo de 25 minutos finalizar um desafio surgirá, caso o usuário completar o desafio ele ganhará experiência e se a experiência for suficiente para subir de nível um modal informando o nível alcançado surgirá e então um novo cilco poderá ser iniciado.
+  Após o ciclo de 25 minutos finalizar um desafio surgirá, caso o usuário completar o desafio ele ganhará experiência e se a experiência for suficiente para subir de nível um modal informando o nível alcançado surgirá e então um novo ciclo poderá ser iniciado.
 
 https://user-images.githubusercontent.com/68926751/109399182-0b464100-7920-11eb-8b56-6c2bb4581f0f.mp4
 
